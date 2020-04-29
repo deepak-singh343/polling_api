@@ -34,7 +34,7 @@ Open Postman, to ADD a new Question make a POST request with URL localhost:8000/
 
 - Then:
 
-To ADD Options make a POST request with localhost:8000/api/v1/questions/5eaa3db3e8e5aa29ec02ddb8/options/create with raw data                                             
+To ADD Options to the Question make a POST request with localhost:8000/api/v1/questions/QuestionId/options/create with raw data                                             
 { "text":"Text" } .
 
 - Then:
