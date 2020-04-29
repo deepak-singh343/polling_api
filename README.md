@@ -51,5 +51,5 @@ To DELETE an Option make a DELETE request with URL localhost:8000/api/v1/options
 
 - Then:
 
-To DELETE a Question make a DELETE request with URL localhost:8000/api/v1/questions/5eaa34f727b3e91d9c3495a0/delete.
+To DELETE a Question make a DELETE request with URL localhost:8000/api/v1/questions/QuestionId/delete.
 
